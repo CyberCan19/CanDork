@@ -12,6 +12,6 @@
   $ python3 CanDork.py
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
+- On first launch, It'll install the dependencies and that's it. ***CanDork*** is installed.
 
 ##
